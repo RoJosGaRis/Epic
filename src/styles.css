@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+--root {
+  --first: #4e42a3;
+  --second: #a30366;
+  --third: #294ab2;
+  --fourth: #060966;
+  --fifth: #7c3abb;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
